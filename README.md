@@ -1,2 +1,3 @@
-# Language-Translator
-An AI powered system to help guide you to translate large body of text in a different language to English
+# AI Language-Translator
+An AI powered system to help guide you to translate large body of text in a different language to English, I chose this project because languages is a way of connecting and bridging commonality and traits between others for personal reflection and growth.
+Language has been a big part of my personal life and I'm sure for everyone's life when engaging with others through ideas, backgrounds, and skills through many different experiences. However, with the barrier of language and I think language and expressing is a great thing so trying to break that barrier to connect and work together on a common goal!
