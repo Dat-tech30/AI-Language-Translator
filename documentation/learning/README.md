@@ -1,0 +1,2 @@
+This learning folder where I try out different models and seeing what works for the AI translation models, there will be a lot of trial and error
+seeing the various of methods I use and the codes and modules I import!
