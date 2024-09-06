@@ -6,6 +6,8 @@ from transformers import pipeline # Transformers Pipeline
 
 # Loading up the pipeline
 translation_pipeline = pipeline("translation_en_to_vi") 
+results = translation_pipeline('I love learning about coding')
+results[0]['translation_text']
 
 def translate_transformers(from_text):
     results = translation_pipeline(from_text)
